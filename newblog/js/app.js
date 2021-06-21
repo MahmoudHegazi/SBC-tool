@@ -1,0 +1,1 @@
+document.querySelector('#demo').addEventListener("click", ()=> {alert('Hello User You can Read and scrape this site')});

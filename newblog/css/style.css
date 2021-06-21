@@ -1,0 +1,50 @@
+.holder-container{display: flex;justify-content: center;margin-bottom:10px;} .header{display:block;background:#81b422;color:white;text-align:center;}
+.post-container-sbc { display: block; padding: 15px; margin: 10px;} .post-container-sbc p{padding:20px;}button{background:#000000} .btn-container{justify-content:center}.post-number-1{
+          font-family: fantasy, serif;
+          font-size: 16px;
+          text-align: justify;
+          color: #e8e8e8;
+          background: #b82e2e;
+        }.post-number-2{
+          font-family: Georgia, serif;;
+          font-size: 18px;
+          text-align: center;
+          color: #2c30b5;
+          background: #2f9d36;
+        }.post-number-3{
+          font-family: fantasy, serif;
+          font-size: 16px;
+          text-align: left;
+          color: #1952be;
+          background: #c3ce22;
+        }.post-number-4{
+          font-family: "Lucida Console", "Courier New", monospace;
+          font-size: 12px;
+          text-align: center;
+          color: #ffffff;
+          background: #000000;
+        }.post-number-5{
+          font-family: Arial, Helvetica, sans-serif;
+          font-size: 24px;
+          text-align: justify;
+          color: #d7cb23;
+          background: #27f40b;
+        }.post-number-6{
+          font-family: fantasy, serif;
+          font-size: 18px;
+          text-align: justify;
+          color: #ffffff;
+          background: #591cca;
+        }.post-number-7{
+          font-family: fantasy, serif;
+          font-size: 16px;
+          text-align: justify;
+          color: #000000;
+          background: #b72ab2;
+        }.post-number-8{
+          font-family: fantasy, serif;
+          font-size: 10px;
+          text-align: center;
+          color: #ffffff;
+          background: #000000;
+        }
